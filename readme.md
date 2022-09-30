@@ -1,5 +1,2 @@
 Hello
-
-Hi 
-There
-Joe
+my name is joe
